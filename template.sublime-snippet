@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+#include <bits/stdc++.h>
+using namespace std;
+#define rep(i,a,n) for(int i=a;i<n;i++)
+#define F0R(i,n) for(int i=0;i<n;i++)
+typedef long long ll;
+const int MAXN = 2e5;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+//  freopen("in", "r", stdin);
+//  freopen("out", "w", stdout);
+    /*
+    int tc; cin >> tc;
+    for (int t = 1; t <= tc; t++) {
+        cout << "Case #" << t  << ": ";
+    }
+    */
+    
+    return 0;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>template</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>
