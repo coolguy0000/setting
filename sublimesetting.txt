@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/User/Solarized (dark).tmTheme",
+	"expand_tabs_on_save": true,
+	"font_face": "Jetbrains Mono",
+	"font_size": 13,
+	"tab_size": 4,
+	"hot_exit": false,
+	"translate_tabs_to_spaces": true,
+	"remember_open_files": false,
+	"auto_complete": true
+	// "ignored_packages":
+	// [
+	// 	"Package Control",
+	// 	"Vintage"
+	// ],
+}
